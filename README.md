@@ -1,1 +1,1 @@
-# regression_model
+We will create a deep learning regression model that predicts the likelihood that a student applying to graduate school in the USA will be accepted based on various application factors (such as test scores).
